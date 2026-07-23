@@ -1,5 +1,3 @@
-## Jelly Recipe
-
 ### Ingredients
 
 | Ingredient | Imperial | Metric |
